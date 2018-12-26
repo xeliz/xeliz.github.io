@@ -1,0 +1,13 @@
+body {
+    margin: 0;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    background: silver;
+}
+
+.centerdiv {
+    margin: 5% auto;
+    background: white;
+    border-radius: 1em;
+    padding: 50px;
+    width: 45%;
+}
