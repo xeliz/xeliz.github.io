@@ -5,9 +5,13 @@ body {
 }
 
 .centerdiv {
-    margin: 5% auto;
+    margin: 2.5% auto;
     background: white;
     border-radius: 1em;
     padding: 50px;
-    width: 45%;
+    width: 90%;
+}
+
+.center {
+    text-align: center;
 }
