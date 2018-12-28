@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+    font-family: arial, helvetica, sans-serif;
+    background: url(graygrid.png) no-repeat;
+    background-size: 100%;
+}
+.centerdiv {
+    margin: 2.5% auto;
+    margin-top: 150px;
+    background: white;
+    border-radius: 1em;
+    padding: 50px;
+    width: 50%;
+    box-shadow: 0px 0px 50px black;
+}
+
+.center {
+    text-align: center;
+}
