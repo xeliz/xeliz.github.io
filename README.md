@@ -1,2 +1,2 @@
 # xeliz.github.io
-My github page with random contents
+My stub site on github pages
